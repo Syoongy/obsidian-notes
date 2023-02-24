@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "b29e82384b2dc187",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8080a5defcf6150",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53f63b7433f6b7ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS205/Concurrency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acdd15d685b6078a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aaa2253bda0b4e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9952bb4aed1b15fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a79e8b4ae7082345",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f68431499e8c25d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9e90b44f5df508c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bb71fc907574467",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b9d0f7f547777b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS205/Concurrency.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6e69578b1f26877",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS205/Concurrency.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f553d1b100be050a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f105280c09fca70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS205/Concurrency.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 176.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "53f63b7433f6b7ac",
+  "lastOpenFiles": [
+    "CS205/Threads.md",
+    "CS205/Concurrency.md",
+    "CS205/Untitled.canvas",
+    "CS205/images/monitor_4.png",
+    "CS205/images/monitor_3.png",
+    "CS205/images/message_passing_1.png",
+    "CS205/images/monitor_2.png",
+    "Pasted image 20230224084751.png",
+    "CS205/images/monitor_1.png",
+    "CS205/Semaphore.md",
+    "CS205/images/concurrency_exercise_42.png",
+    "CS202/Weighted Graphs.md",
+    "CS202/images/mst_floyd_warshall_7.png"
+  ]
+}
