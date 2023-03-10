@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8080a5defcf6150",
+        "id": "fd105ba55654e3e7",
         "type": "tabs",
         "children": [
           {
-            "id": "53f63b7433f6b7ac",
+            "id": "a9f1f64afdbf62e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS205/Concurrency.md",
+                "file": "CS205/Deadlock and Starvation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS205/Concurrency.md",
+                "file": "CS205/Deadlock and Starvation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS205/Concurrency.md",
+                "file": "CS205/Deadlock and Starvation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS205/Concurrency.md"
+                "file": "CS205/Deadlock and Starvation.md"
               }
             }
           }
@@ -146,20 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53f63b7433f6b7ac",
+  "active": "9952bb4aed1b15fc",
   "lastOpenFiles": [
-    "CS205/Threads.md",
+    "CS205/images/android_binder_2.png",
+    "CS205/images/android_binder_1.png",
+    "CS205/images/dining_philosophers_3.png",
+    "CS205/images/dining_philosophers_2.png",
+    "CS205/images/dining_philosophers_1.png",
+    "CS205/images/deadlock_detection_4.png",
+    "CS205/images/deadlock_detection_3.png",
+    "CS205/images/deadlock_detection_2.png",
+    "CS205/images/deadlock_detection_1.png",
+    "CS205/images/bankers_algorithm_7.png",
+    "CS205/images/bankers_algorithm_6.png",
+    "CS205/Deadlock and Starvation.md",
+    "CS203/SCRUM.md",
+    "CS203/User Story.md",
+    "CS203/Versioning.md",
+    "CS203/AGILE Processes.md",
+    "CS203/Component Based Development.md",
+    "CS203/Git.md",
+    "CS203/Persistence.md",
     "CS205/Concurrency.md",
+    "CS205/Threads.md",
     "CS205/Untitled.canvas",
-    "CS205/images/monitor_4.png",
-    "CS205/images/monitor_3.png",
-    "CS205/images/message_passing_1.png",
-    "CS205/images/monitor_2.png",
-    "Pasted image 20230224084751.png",
-    "CS205/images/monitor_1.png",
     "CS205/Semaphore.md",
-    "CS205/images/concurrency_exercise_42.png",
-    "CS202/Weighted Graphs.md",
-    "CS202/images/mst_floyd_warshall_7.png"
+    "CS202/Weighted Graphs.md"
   ]
 }
