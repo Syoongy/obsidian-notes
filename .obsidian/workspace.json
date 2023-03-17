@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fd105ba55654e3e7",
+        "id": "dc83cdf40f3fc8cd",
         "type": "tabs",
         "children": [
           {
-            "id": "a9f1f64afdbf62e3",
+            "id": "345153edb41575ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS205/Deadlock and Starvation.md",
+                "file": "CS205/Segmentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ca55737ba5aee95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS205/Virtual Memory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS205/Deadlock and Starvation.md",
+                "file": "CS205/Virtual Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS205/Deadlock and Starvation.md",
+                "file": "CS205/Virtual Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS205/Deadlock and Starvation.md"
+                "file": "CS205/Virtual Memory.md"
               }
             }
           }
@@ -148,18 +161,31 @@
   },
   "active": "9952bb4aed1b15fc",
   "lastOpenFiles": [
-    "CS205/images/android_binder_2.png",
-    "CS205/images/android_binder_1.png",
-    "CS205/images/dining_philosophers_3.png",
-    "CS205/images/dining_philosophers_2.png",
-    "CS205/images/dining_philosophers_1.png",
-    "CS205/images/deadlock_detection_4.png",
-    "CS205/images/deadlock_detection_3.png",
-    "CS205/images/deadlock_detection_2.png",
-    "CS205/images/deadlock_detection_1.png",
-    "CS205/images/bankers_algorithm_7.png",
-    "CS205/images/bankers_algorithm_6.png",
+    "CS205/images/replacement_algorithm_4.png",
+    "CS205/images/replacement_algorithm_3.png",
+    "CS205/images/replacement_algorithm_2.png",
+    "CS205/images/replacement_algorithm_1.png",
+    "CS205/images/page_fault_rate.png",
+    "CS205/images/page_fault.png",
+    "CS205/images/demand_paging_address_translation_2.png",
+    "CS205/images/demand_paging_address_translation_1.png",
+    "CS205/images/demand_paging_1.png",
+    "CS205/images/virtual_memory_1.png",
+    "CS205/Segmentation.md",
+    "CS205/Virtual Memory.md",
+    "CS205/images/segmentation_exercise.png",
+    "CS205/Memory Management.md",
+    "CS205/Paging.md",
+    "CS205/Fixed Partitioning.md",
     "CS205/Deadlock and Starvation.md",
+    "Fixed Partitioning ",
+    "CS205/Dynamic Partitioning.md",
+    "CS205/Multiprogramming, Timesharing.md",
+    "CS202/Weighted Graphs.md",
+    "CS202/Graph Algorithms.md",
+    "CS202/Reducibility.md",
+    "CS202/NP Completeness.md",
+    "CS201/Algorithm Analysis.md",
     "CS203/SCRUM.md",
     "CS203/User Story.md",
     "CS203/Versioning.md",
@@ -170,7 +196,6 @@
     "CS205/Concurrency.md",
     "CS205/Threads.md",
     "CS205/Untitled.canvas",
-    "CS205/Semaphore.md",
-    "CS202/Weighted Graphs.md"
+    "CS205/Semaphore.md"
   ]
 }
