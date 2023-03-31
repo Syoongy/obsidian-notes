@@ -18,9 +18,8 @@ Some problems are clearly not solvable in polynomial time. (e.g. Turing's "Halti
 ### NP
 Class of problems that can be verified (checked) by a polynomial-time algorithm. An example of this would be a hamiltonian cycle of an undirected graph (simple cycle that contains every vertex). It is NP since verifying whether a given solution is a hamiltonian cycle is easy (i.e. polynomial time).
 ![[hamiltonian_cycle.png]]
-## Vertex-Cover Problem
-A vertex cover of an undirected graph $G=(V,E)$ is a subset $W$ of $V$ such that if $(u, v)$ in $E$, then either $u$ in $W$ or $v$ in $W$. Determine whether a graph has a vertex cover of a given size $k$. It is NP since verifying whether a given solution is valid is in polynomial time.
-![[vertex_cover_1.png]]
+
+[[Vertex-Cover Problem]]
 
 ## Graph Colouring Problem
 Given a graph $G$ and integer $k$, can $G$ be coloured with at most $k$ colours such that no two adjacent vertices are of the same colour. It is NP since verifying any given solution is in polynomial time.
