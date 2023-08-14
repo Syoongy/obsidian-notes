@@ -1,4 +1,11 @@
 {
-  "cssTheme": "",
-  "accentColor": ""
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "floating-search-bar",
+    "floating-status-bar",
+    "minimal-cards",
+    "notion-cards",
+    "its-frontmatter"
+  ]
 }

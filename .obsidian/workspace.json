@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "be6490dcd830cac4",
+        "id": "260ddf2aeaf3a14e",
         "type": "tabs",
         "children": [
           {
-            "id": "bb7e0a5d1d402c5b",
+            "id": "5fcc643025722637",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS205/Storage Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e485b5c37b49dc9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS205/File Management.md",
+                "file": "CS461/Introduction to Android Programming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "532a42688f14017c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS205/File Management.md",
+                "file": "CS461/Introduction to Android Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS205/File Management.md",
+                "file": "CS461/Introduction to Android Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS205/File Management.md"
+                "file": "CS461/Introduction to Android Programming.md"
               }
             }
           }
@@ -161,43 +156,45 @@
   },
   "active": "9952bb4aed1b15fc",
   "lastOpenFiles": [
+    "CS461/images/week01_android_architecture.png",
+    "CS461/images",
+    "CS461/Introduction to Android Programming.md",
+    "CS461",
+    "CS203/Component Based Development.md",
+    "CS203/AGILE Processes.md",
+    "CS202/Reducibility.md",
+    "CS202/Graph Algorithms.md",
+    "CS202/NP Completeness.md",
+    "CS202/Heuristics.md",
+    "CS202/Greedy Algorithm.md",
+    "CS202/Dynamic Programming.md",
+    "CS205/Deadlock and Starvation.md",
+    "CS103/Vector.md",
+    "CS103/Matrix.md",
+    "CS103/Linear Algebra.md",
+    "CS103/Huffman Code.md",
+    "CS103/Untitled.md",
+    "CS202/Divide And Conquer.md",
+    "CS202/Approximation Algorithms.md",
+    "CS205/File Management.md",
+    "CS205/Storage Management.md",
     "CS205/images/directory_2.png",
     "CS205/images/directory_1.png",
     "CS205/images/file_to_block_mapping.png",
     "CS205/images/directory_tree_1.png",
     "CS205/images/disk_partition_1.png",
     "CS205/images/file_management_1.png",
-    "CS205/Storage Management.md",
-    "CS205/File Management.md",
     "CS205/images/flash_memory_3.png",
     "CS205/images/flash_memory_2.png",
     "CS205/images/flash_memory_1.png",
     "CS205/images/hard_drive_exercise.png",
-    "Pasted image 20230331094416.png",
-    "CS202/Approximation Algorithms.md",
-    "CS202/Heuristics.md",
-    "CS202/NP Completeness.md",
-    "CS202/Reducibility.md",
     "CS202/Vertex-Cover Problem.md",
     "CS205/Segmentation.md",
     "CS205/Virtual Memory.md",
     "CS205/Memory Management.md",
     "CS205/Paging.md",
     "CS205/Fixed Partitioning.md",
-    "CS205/Deadlock and Starvation.md",
     "Fixed Partitioning ",
-    "CS205/Dynamic Partitioning.md",
-    "CS205/Multiprogramming, Timesharing.md",
-    "CS202/Weighted Graphs.md",
-    "CS202/Graph Algorithms.md",
-    "CS201/Algorithm Analysis.md",
-    "CS203/SCRUM.md",
-    "CS203/User Story.md",
-    "CS203/Versioning.md",
-    "CS203/AGILE Processes.md",
-    "CS203/Component Based Development.md",
-    "CS203/Git.md",
-    "CS203/Persistence.md",
     "CS205/Untitled.canvas"
   ]
 }
