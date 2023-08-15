@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS461/Introduction to Android Programming.md",
+                "file": "CS301/Architectural Thinking 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS461/Introduction to Android Programming.md",
+                "file": "CS301/Architectural Thinking 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS461/Introduction to Android Programming.md",
+                "file": "CS301/Architectural Thinking 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS461/Introduction to Android Programming.md"
+                "file": "CS301/Architectural Thinking 1.md"
               }
             }
           }
@@ -154,11 +154,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9952bb4aed1b15fc",
+  "active": "5fcc643025722637",
   "lastOpenFiles": [
-    "CS461/images/week01_android_architecture.png",
-    "CS461/images",
+    "CS301/Cloud Computing.md",
+    "week01_qn1.png",
+    "CS301/images/week01_aws_responsibility.png",
+    "CS301/images/week01_aws_shared_responsibility.png",
+    "CS301/images/week01_aws_compute_storage_db.png",
+    "CS301/images/week01_aws_stack.png",
+    "CS301/images/week01_public_hybrid_cloud.png",
+    "CS301/images/week01_cloud_deployment_models.png",
+    "CS301/Architectural Thinking 1.md",
+    "CS301/images/week01_quality_attributes.png",
+    "CS301/images/week01_sequence_diagram_1.png",
+    "CS301/images/week01_iso_25010.png",
+    "CS301/images",
     "CS461/Introduction to Android Programming.md",
+    "CS301",
+    "CS461/images",
     "CS461",
     "CS203/Component Based Development.md",
     "CS203/AGILE Processes.md",
@@ -178,22 +191,10 @@
     "CS202/Approximation Algorithms.md",
     "CS205/File Management.md",
     "CS205/Storage Management.md",
-    "CS205/images/directory_2.png",
-    "CS205/images/directory_1.png",
-    "CS205/images/file_to_block_mapping.png",
-    "CS205/images/directory_tree_1.png",
-    "CS205/images/disk_partition_1.png",
-    "CS205/images/file_management_1.png",
-    "CS205/images/flash_memory_3.png",
-    "CS205/images/flash_memory_2.png",
-    "CS205/images/flash_memory_1.png",
-    "CS205/images/hard_drive_exercise.png",
     "CS202/Vertex-Cover Problem.md",
     "CS205/Segmentation.md",
     "CS205/Virtual Memory.md",
     "CS205/Memory Management.md",
-    "CS205/Paging.md",
-    "CS205/Fixed Partitioning.md",
     "Fixed Partitioning ",
     "CS205/Untitled.canvas"
   ]
