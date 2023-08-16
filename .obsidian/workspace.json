@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "260ddf2aeaf3a14e",
+        "id": "617c5750e3816c54",
         "type": "tabs",
         "children": [
           {
-            "id": "5fcc643025722637",
+            "id": "d86daaccce46292b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS301/Architectural Thinking 1.md",
+                "file": "CS302/DevOps Culture.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS301/Architectural Thinking 1.md",
+                "file": "CS302/DevOps Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS301/Architectural Thinking 1.md",
+                "file": "CS302/DevOps Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS301/Architectural Thinking 1.md"
+                "file": "CS302/DevOps Culture.md"
               }
             }
           }
@@ -154,27 +154,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fcc643025722637",
+  "active": "d86daaccce46292b",
   "lastOpenFiles": [
+    "Pasted image 20230816175029.png",
+    "CS302/images/week01_deployment_hell.png",
+    "CS302/images/week01_agile.png",
+    "CS302/images/week01_agile_principles.png",
+    "CS302/DevOps Culture.md",
+    "CS302/images",
+    "CS302/images/week_01_waterfall.png",
+    "CS203/Persistence.md",
+    "CS203/SCRUM.md",
+    "CS203/AGILE Processes.md",
+    "CS301/Architectural Thinking 1.md",
+    "CS302",
     "CS301/Cloud Computing.md",
-    "week01_qn1.png",
+    "CS301/images/week01_qn1.png",
     "CS301/images/week01_aws_responsibility.png",
     "CS301/images/week01_aws_shared_responsibility.png",
     "CS301/images/week01_aws_compute_storage_db.png",
     "CS301/images/week01_aws_stack.png",
     "CS301/images/week01_public_hybrid_cloud.png",
-    "CS301/images/week01_cloud_deployment_models.png",
-    "CS301/Architectural Thinking 1.md",
-    "CS301/images/week01_quality_attributes.png",
-    "CS301/images/week01_sequence_diagram_1.png",
-    "CS301/images/week01_iso_25010.png",
     "CS301/images",
     "CS461/Introduction to Android Programming.md",
     "CS301",
     "CS461/images",
     "CS461",
     "CS203/Component Based Development.md",
-    "CS203/AGILE Processes.md",
     "CS202/Reducibility.md",
     "CS202/Graph Algorithms.md",
     "CS202/NP Completeness.md",
@@ -192,9 +198,6 @@
     "CS205/File Management.md",
     "CS205/Storage Management.md",
     "CS202/Vertex-Cover Problem.md",
-    "CS205/Segmentation.md",
-    "CS205/Virtual Memory.md",
-    "CS205/Memory Management.md",
     "Fixed Partitioning ",
     "CS205/Untitled.canvas"
   ]
