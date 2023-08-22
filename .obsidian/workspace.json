@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS302/DevOps Culture.md",
+                "file": "CS301/Architectural Thinking 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS302/DevOps Culture.md",
+                "file": "CS301/Architectural Thinking 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS302/DevOps Culture.md",
+                "file": "CS301/Architectural Thinking 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS302/DevOps Culture.md"
+                "file": "CS301/Architectural Thinking 2.md"
               }
             }
           }
@@ -154,27 +154,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d86daaccce46292b",
+  "active": "9952bb4aed1b15fc",
   "lastOpenFiles": [
-    "Pasted image 20230816175029.png",
-    "CS302/images/week01_deployment_hell.png",
-    "CS302/images/week01_agile.png",
-    "CS302/images/week01_agile_principles.png",
+    "CS301/images/week02_airgap.png",
+    "CS301/images/week02_network_diagram_example_3.png",
+    "CS301/images/week02_network_diagram_example_2.png",
+    "CS301/images/week02_network_diagram_summary_1.png",
+    "CS301/images/week02_network_diagram_example_1.png",
+    "CS301/images/week02_network_zones_and_proxy.png",
+    "CS301/images/week02_tiered_arch.png",
+    "CS301/images/week02_client_server_arch.png",
+    "CS301/images/week02_distributed_systems_and_integration.png",
+    "CS301/images/week02_multitenancy.png",
+    "CS301/images/week02_layered_architecture.png",
+    "CS301/Architectural Thinking 2.md",
     "CS302/DevOps Culture.md",
     "CS302/images",
-    "CS302/images/week_01_waterfall.png",
     "CS203/Persistence.md",
     "CS203/SCRUM.md",
     "CS203/AGILE Processes.md",
     "CS301/Architectural Thinking 1.md",
     "CS302",
     "CS301/Cloud Computing.md",
-    "CS301/images/week01_qn1.png",
-    "CS301/images/week01_aws_responsibility.png",
-    "CS301/images/week01_aws_shared_responsibility.png",
-    "CS301/images/week01_aws_compute_storage_db.png",
-    "CS301/images/week01_aws_stack.png",
-    "CS301/images/week01_public_hybrid_cloud.png",
     "CS301/images",
     "CS461/Introduction to Android Programming.md",
     "CS301",
@@ -197,7 +198,6 @@
     "CS202/Approximation Algorithms.md",
     "CS205/File Management.md",
     "CS205/Storage Management.md",
-    "CS202/Vertex-Cover Problem.md",
     "Fixed Partitioning ",
     "CS205/Untitled.canvas"
   ]
