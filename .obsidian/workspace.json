@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS301/Architectural Thinking 2.md",
+                "file": "CS302/DevOps Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS301/Architectural Thinking 2.md",
+                "file": "CS302/DevOps Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS301/Architectural Thinking 2.md",
+                "file": "CS302/DevOps Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS301/Architectural Thinking 2.md"
+                "file": "CS302/DevOps Roadmap.md"
               }
             }
           }
@@ -156,19 +156,20 @@
   },
   "active": "9952bb4aed1b15fc",
   "lastOpenFiles": [
-    "CS301/images/week02_airgap.png",
-    "CS301/images/week02_network_diagram_example_3.png",
-    "CS301/images/week02_network_diagram_example_2.png",
-    "CS301/images/week02_network_diagram_summary_1.png",
-    "CS301/images/week02_network_diagram_example_1.png",
-    "CS301/images/week02_network_zones_and_proxy.png",
-    "CS301/images/week02_tiered_arch.png",
-    "CS301/images/week02_client_server_arch.png",
-    "CS301/images/week02_distributed_systems_and_integration.png",
-    "CS301/images/week02_multitenancy.png",
-    "CS301/images/week02_layered_architecture.png",
-    "CS301/Architectural Thinking 2.md",
+    "CS302/images/week02_microservices.png",
+    "CS302/images/week02_ci_cd.png",
+    "CS302/images/week02_branching_strategy.png",
+    "CS302/images/week02_git_branching.png",
+    "CS302/images/week02_workflow_1.png",
+    "CS302/images/week02_skillset_roadmap.png",
     "CS302/DevOps Culture.md",
+    "CS302/DevOps Roadmap.md",
+    "CS302/images/week02_sre_practices_2.png",
+    "CS302/images/week02_sre_practices.png",
+    "CS302/images/week02_devops_sre_diff.png",
+    "Pasted image 20230823161039 1.png",
+    "CS302/images/week02_cultural_movement.png",
+    "CS301/Architectural Thinking 2.md",
     "CS302/images",
     "CS203/Persistence.md",
     "CS203/SCRUM.md",
@@ -197,7 +198,6 @@
     "CS202/Divide And Conquer.md",
     "CS202/Approximation Algorithms.md",
     "CS205/File Management.md",
-    "CS205/Storage Management.md",
     "Fixed Partitioning ",
     "CS205/Untitled.canvas"
   ]
