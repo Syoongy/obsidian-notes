@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS302/DevOps Roadmap.md",
+                "file": "CS301/Security Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS302/DevOps Roadmap.md",
+                "file": "CS301/Security Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS302/DevOps Roadmap.md",
+                "file": "CS301/Security Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS302/DevOps Roadmap.md"
+                "file": "CS301/Security Design.md"
               }
             }
           }
@@ -156,6 +156,15 @@
   },
   "active": "9952bb4aed1b15fc",
   "lastOpenFiles": [
+    "CS301/images/week03_ssl_strip.png",
+    "CS301/images/week03_http_parameter_tampering.png",
+    "CS301/images/week03_mitm.png",
+    "CS301/images/week03_xsrf.png",
+    "CS301/images/week03_sql_injection.png",
+    "CS301/Architectural Thinking 2.md",
+    "CS301/Security Design.md",
+    "CS301/Cloud Computing.md",
+    "CS302/DevOps Roadmap.md",
     "CS302/images/week02_microservices.png",
     "CS302/images/week02_ci_cd.png",
     "CS302/images/week02_branching_strategy.png",
@@ -163,20 +172,12 @@
     "CS302/images/week02_workflow_1.png",
     "CS302/images/week02_skillset_roadmap.png",
     "CS302/DevOps Culture.md",
-    "CS302/DevOps Roadmap.md",
-    "CS302/images/week02_sre_practices_2.png",
-    "CS302/images/week02_sre_practices.png",
-    "CS302/images/week02_devops_sre_diff.png",
-    "Pasted image 20230823161039 1.png",
-    "CS302/images/week02_cultural_movement.png",
-    "CS301/Architectural Thinking 2.md",
     "CS302/images",
     "CS203/Persistence.md",
     "CS203/SCRUM.md",
     "CS203/AGILE Processes.md",
     "CS301/Architectural Thinking 1.md",
     "CS302",
-    "CS301/Cloud Computing.md",
     "CS301/images",
     "CS461/Introduction to Android Programming.md",
     "CS301",
@@ -197,7 +198,6 @@
     "CS103/Untitled.md",
     "CS202/Divide And Conquer.md",
     "CS202/Approximation Algorithms.md",
-    "CS205/File Management.md",
     "Fixed Partitioning ",
     "CS205/Untitled.canvas"
   ]
