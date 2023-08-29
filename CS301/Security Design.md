@@ -26,3 +26,31 @@ This uses a single key. This is faster for encryption and decryption but has bad
 Uses 2 keys. This is slower because of 2 keys to either encrypt or decrypt the data but has better availability because you can now hand out a public key
 ## Hashing
 A function that maps data to data of a fixed size (Passwords)
+# Firewall
+## Types
+- Host based
+	- Filter in/outgoing traffic to a specific host
+- Network based
+	- Filter in/outgoing traffic from a less secure to more secure zone
+## Filtering
+- Stateless Packet Filtering
+	- Allow/Deny action as per the source and destination of the port and address
+	- Last rule to deny all by default
+	- ![[week03_stateless_firewall.png]]
+- Stateful Packet Filtering
+	- Keeps track of client-server sessions
+	- Checks each packet validly belongs to one
+	- ![[week03_stateful_firewall.png]]
+- Application Level Firewalls
+	- Works at app level
+	- Separate proxy for each service
+	- AWS Web Application Firewall rules to manage HTTP(S) web request based on criteria
+	- ![[week03_application_level_firewall.png]]
+# AWS Architecture Security
+Consists of
+- AWS Regions, Virtual Private Cloud(VPC), Availability Zones and Subnets
+- AWS Access Control Lists (ACL)
+- AWS Security Groups (SG)
+- AWS Identity Access Management (IAM)
+Refer to slides for details
+
