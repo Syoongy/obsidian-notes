@@ -156,6 +156,7 @@
   },
   "active": "9952bb4aed1b15fc",
   "lastOpenFiles": [
+    "week03_docker_containerisation.png",
     "CS302/images/week03_rest_recap.png",
     "CS302/images/week03_atomic_services_01.png",
     "CS302/images/week03_pattern_orchestration.png",
@@ -169,7 +170,6 @@
     "CS302/DevOps Roadmap.md",
     "CS302/Microservices & Docker.md",
     "CS301/Security Design.md",
-    "CS301/images/week03_application_level_firewall.png",
     "CS301/Architectural Thinking 2.md",
     "CS301/Cloud Computing.md",
     "CS302/DevOps Culture.md",

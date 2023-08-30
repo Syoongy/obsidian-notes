@@ -50,3 +50,11 @@ Provides functionality related to on capability (e.g. CRUD operations for _Order
 ![[week03_atomic_services_01.png]]
 ### REST
 ![[week03_rest_recap.png]]
+### Drawbacks
+Thet are _not a silver bullet_ and can make things worse with poor testing or development culture.
+Incorrectly decomposing an application can result in a distributed monolith.
+Distributed systems are also complex especially in terms of data consistency.
+Deploying features that span multiple services can be tricky.
+## Docker
+This is to containerise a service to ensure it runs everywhere consistently
+![[week03_docker_containerisation.png]]
