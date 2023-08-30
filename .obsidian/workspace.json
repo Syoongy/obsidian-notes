@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS301/Security Design.md",
+                "file": "CS302/Microservices & Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS301/Security Design.md",
+                "file": "CS302/Microservices & Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS301/Security Design.md",
+                "file": "CS302/Microservices & Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS301/Security Design.md"
+                "file": "CS302/Microservices & Docker.md"
               }
             }
           }
@@ -156,21 +156,22 @@
   },
   "active": "9952bb4aed1b15fc",
   "lastOpenFiles": [
+    "CS302/images/week03_rest_recap.png",
+    "CS302/images/week03_atomic_services_01.png",
+    "CS302/images/week03_pattern_orchestration.png",
+    "CS302/images/week03_pattern_choreography.png",
+    "CS302/images/week03_comm_patterns.png",
+    "CS302/images/week03_ftgo_decomposed.png",
+    "CS302/images/week03_microservices_enabler.png",
+    "CS302/images/week03_microservices_example_02.png",
+    "CS302/images/week03_microservice_service.png",
+    "CS302/images/week03_monolith_example_01.png",
+    "CS302/DevOps Roadmap.md",
+    "CS302/Microservices & Docker.md",
+    "CS301/Security Design.md",
     "CS301/images/week03_application_level_firewall.png",
     "CS301/Architectural Thinking 2.md",
-    "CS301/images/week03_stateless_firewall.png",
-    "CS301/Security Design.md",
-    "CS301/images/week03_stateful_firewall.png",
-    "CS301/images/week03_ssl_strip.png",
-    "CS301/images/week03_http_parameter_tampering.png",
-    "CS301/images/week03_mitm.png",
-    "CS301/images/week03_xsrf.png",
-    "CS301/images/week03_sql_injection.png",
     "CS301/Cloud Computing.md",
-    "CS302/DevOps Roadmap.md",
-    "CS302/images/week02_microservices.png",
-    "CS302/images/week02_ci_cd.png",
-    "CS302/images/week02_branching_strategy.png",
     "CS302/DevOps Culture.md",
     "CS302/images",
     "CS203/Persistence.md",
@@ -197,7 +198,6 @@
     "CS103/Huffman Code.md",
     "CS103/Untitled.md",
     "CS202/Divide And Conquer.md",
-    "CS202/Approximation Algorithms.md",
     "Fixed Partitioning ",
     "CS205/Untitled.canvas"
   ]
