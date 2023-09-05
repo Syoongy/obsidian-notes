@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "617c5750e3816c54",
+        "id": "db52debaf81c11d1",
         "type": "tabs",
         "children": [
           {
-            "id": "d86daaccce46292b",
+            "id": "477c8fe89d76b879",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS302/Microservices & Docker.md",
+                "file": "CS301/Integration Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS302/Microservices & Docker.md",
+                "file": "CS301/Integration Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS302/Microservices & Docker.md",
+                "file": "CS301/Integration Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS302/Microservices & Docker.md"
+                "file": "CS301/Integration Patterns.md"
               }
             }
           }
@@ -156,19 +156,20 @@
   },
   "active": "9952bb4aed1b15fc",
   "lastOpenFiles": [
-    "week03_docker_containerisation.png",
-    "CS302/images/week03_rest_recap.png",
-    "CS302/images/week03_atomic_services_01.png",
-    "CS302/images/week03_pattern_orchestration.png",
-    "CS302/images/week03_pattern_choreography.png",
-    "CS302/images/week03_comm_patterns.png",
-    "CS302/images/week03_ftgo_decomposed.png",
-    "CS302/images/week03_microservices_enabler.png",
-    "CS302/images/week03_microservices_example_02.png",
-    "CS302/images/week03_microservice_service.png",
-    "CS302/images/week03_monolith_example_01.png",
-    "CS302/DevOps Roadmap.md",
+    "CS301/images/week04_microservices_02.png",
+    "CS301/images/week04_arch_microservice_01.png",
+    "CS301/images/week04_arch_modern_client.png",
+    "CS301/images/week04_arch_traditional_web.png",
+    "CS301/images/week04_arch_web_mobile.png",
+    "CS301/images/week04_web_arch.png",
+    "CS301/images/week04_api_comparisons.png",
+    "CS301/images/week04_api_rest.png",
+    "CS301/images/week04_api_soap.png",
+    "CS301/images/week04_messaging_durable.png",
+    "CS301/images/week04_messaging_selective.png",
+    "CS301/Integration Patterns.md",
     "CS302/Microservices & Docker.md",
+    "CS302/DevOps Roadmap.md",
     "CS301/Security Design.md",
     "CS301/Architectural Thinking 2.md",
     "CS301/Cloud Computing.md",
@@ -197,7 +198,6 @@
     "CS103/Linear Algebra.md",
     "CS103/Huffman Code.md",
     "CS103/Untitled.md",
-    "CS202/Divide And Conquer.md",
     "Fixed Partitioning ",
     "CS205/Untitled.canvas"
   ]
