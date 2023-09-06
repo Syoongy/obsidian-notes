@@ -39,7 +39,7 @@ Understand the organisation's developer workflow. We want to figure out how the 
 	- Design by committee/Group think (Not the best idea but just go along to remove the blocker)
 	- Cargo culting (Following FotM)
 - #### Coding
-	- God objects
+	- God objects (In object-oriented programming, a god object is an object that references a large number of distinct types, has too many unrelated or uncategorised methods, or some combination of both)
 	- Overengineering (Not everything needs to be a microservice)
 	- Spaghetti code (Hacks to get things working etc)
 	- Copypasta (ChatGPT)

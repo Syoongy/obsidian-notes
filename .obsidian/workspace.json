@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS301/Integration Patterns.md",
+                "file": "CS302/Microservices & Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS301/Integration Patterns.md",
+                "file": "CS302/Microservices & Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS301/Integration Patterns.md",
+                "file": "CS302/Microservices & Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS301/Integration Patterns.md"
+                "file": "CS302/Microservices & Docker.md"
               }
             }
           }
@@ -156,24 +156,25 @@
   },
   "active": "9952bb4aed1b15fc",
   "lastOpenFiles": [
-    "CS301/images/week04_microservices_02.png",
-    "CS301/images/week04_arch_microservice_01.png",
-    "CS301/images/week04_arch_modern_client.png",
-    "CS301/images/week04_arch_traditional_web.png",
-    "CS301/images/week04_arch_web_mobile.png",
-    "CS301/images/week04_web_arch.png",
-    "CS301/images/week04_api_comparisons.png",
-    "CS301/images/week04_api_rest.png",
-    "CS301/images/week04_api_soap.png",
-    "CS301/images/week04_messaging_durable.png",
-    "CS301/images/week04_messaging_selective.png",
-    "CS301/Integration Patterns.md",
+    "CS302/images/week04_pipeline_example.png",
+    "CS302/images/week04_ci_pipeline.png",
+    "CS302/images/week04_ui_testing.png",
+    "CS302/images/week04_e2e_automation.png",
+    "CS302/images/week04_e2e_microservices.png",
+    "CS302/images/week04_component_testing_stubs.png",
+    "CS302/images/week04_component_testing_01.png",
+    "CS302/images/week04_component_testing_microservices.png",
+    "CS302/Continuous Integration.md",
+    "CS302/images/week04_component_testing.png",
+    "CS302/images/week04_integration_docker.png",
+    "CS302/images/week04_integration_microservices.png",
     "CS302/Microservices & Docker.md",
     "CS302/DevOps Roadmap.md",
+    "CS302/DevOps Culture.md",
+    "CS301/Integration Patterns.md",
     "CS301/Security Design.md",
     "CS301/Architectural Thinking 2.md",
     "CS301/Cloud Computing.md",
-    "CS302/DevOps Culture.md",
     "CS302/images",
     "CS203/Persistence.md",
     "CS203/SCRUM.md",
@@ -197,7 +198,6 @@
     "CS103/Matrix.md",
     "CS103/Linear Algebra.md",
     "CS103/Huffman Code.md",
-    "CS103/Untitled.md",
     "Fixed Partitioning ",
     "CS205/Untitled.canvas"
   ]

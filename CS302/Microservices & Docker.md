@@ -58,3 +58,30 @@ Deploying features that span multiple services can be tricky.
 ## Docker
 This is to containerise a service to ensure it runs everywhere consistently
 ![[week03_docker_containerisation.png]]
+
+![[week04_component_testing_01.png]]
+![[week04_component_testing_stubs.png]]
+## End-to-End testing
+Testing the entire application without doubles or stubs
+### For Microservices
+![[week04_e2e_microservices.png]]
+![[week04_e2e_automation.png]]
+- This verifies that the overall application does what it is intended to do
+- Useful for testing new features that require multiple services
+- This however is complex, slow and brittle
+- Unclear where they fit into microservices CI/CD pipeline
+	- Probably run from time to time rather than every commit
+## UI Testing
+![[week04_ui_testing.png]]
+- Theoretically possible to automate
+- Ever more complex, slower and brittle than e2e testing
+- There is still value in this testing
+	- Deploy in staging environment
+	- Give users free reign (Allow them to break the application)
+	- UX research
+# Continuous Integration
+Code analyses and tests can be added as pipeline jobs in two stages
+![[week04_ci_pipeline.png]]
+## Pipeline Jobs
+Fundamental part of a pipeline. (Github Actions)
+![[week04_pipeline_example.png]]

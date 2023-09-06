@@ -70,7 +70,7 @@ Practices that combine development and IT operations with a goal to shorten soft
 		- Eliminate waste in the value stream
 			- "Waste" is any material/resource beyong what the customer requires and is willing to pay for
 			- E.g. extra features, task switching, waiting, defects, manual work
-	1) Feedback
+	2) Feedback
 		- Business -> Devs -> Ops -> Customer
 		- This goes from right to left
 		- Ensures that feedback goes back to the previous items as fast as possible
@@ -98,7 +98,7 @@ Practices that combine development and IT operations with a goal to shorten soft
 				- Idea - Have empathy for their problems in order to better identify the issues that prevent fast and smooth flow
 			- In the technology value stream - this means designing for operations
 			- How? Prioritise testability, configurability, architecture (etc.) as highly as user features
-	1) Continual Learning
+	3) Continual Learning
 		- ![[Pasted image 20230816175029.png]]
 		- Organisational learning and a safety culture
 			- Unexpected outcomes are possible when working within a complex system
