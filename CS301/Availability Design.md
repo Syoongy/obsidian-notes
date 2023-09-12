@@ -73,7 +73,7 @@ server = new Server(serverIPs[++i]);
 On request fail
 - Change list
 - Load Balancer contacts backup
-![[week05_load_balancer.png]]
+![[CS301/images/week05_load_balancer.png]]
 ### DNS
 DNS can have more than 1 IP entry (Primary and Secondary IPs)
 ![[week05_dns_failover.png]]
@@ -110,3 +110,25 @@ Systems typically need to _preserve_ state under certain failure modes. (e.g. Cu
 ![[week05_example_failover_01.png]]
 ## Failover Case 2
 ![[week05_example_failover_02.png]]
+# AWS Elastic Load Balancer
+![[week05_load_balancer 1.png]]
+Provides:
+- High availability
+- Health Checks
+-  Security Features
+- TLS termination
+- Layer 4 or layer 7 load balancing
+## Sticky Policy Configuration
+Routes each request independently to the application with the smallest load by default. _Session affinity_ is available that enables the load balancer to bind a user's session to a specific application instance
+## Multi-Load Balancer Pattern
+Assigns multiple load balancers with different settings for the types of devices that are accessing the web application
+![[week05_multi_load_balancer.png]]
+## HA with Load Balancing
+This consists of an internet facing load balancer ,which is deployed in the public subnet and balances traffic to web servers in 2 availability zones, and an internal load balancer which distributes traffic to EC2 instances from clients with access to the VPC for the load balancer.
+![[week05_HA_load_balancing.png]]
+## Elastic IP Addresses Enable HA
+![[week05_enable_ha.png]]
+# Availability Across Regions
+## Route 53
+An authoritative DNS service that translates domain names to IP addresses and tracks health status of resources and take action when error occurs.
+![[week05_route_53.png]]
