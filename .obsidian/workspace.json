@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS302/Microservices & Docker.md",
+                "file": "CS301/Availability Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS302/Microservices & Docker.md",
+                "file": "CS301/Availability Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS302/Microservices & Docker.md",
+                "file": "CS301/Availability Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS302/Microservices & Docker.md"
+                "file": "CS301/Availability Design.md"
               }
             }
           }
@@ -156,24 +156,25 @@
   },
   "active": "9952bb4aed1b15fc",
   "lastOpenFiles": [
-    "CS302/images/week04_pipeline_example.png",
-    "CS302/images/week04_ci_pipeline.png",
-    "CS302/images/week04_ui_testing.png",
-    "CS302/images/week04_e2e_automation.png",
-    "CS302/images/week04_e2e_microservices.png",
-    "CS302/images/week04_component_testing_stubs.png",
-    "CS302/images/week04_component_testing_01.png",
-    "CS302/images/week04_component_testing_microservices.png",
-    "CS302/Continuous Integration.md",
-    "CS302/images/week04_component_testing.png",
-    "CS302/images/week04_integration_docker.png",
-    "CS302/images/week04_integration_microservices.png",
+    "CS301/images/week05_example_failover_02.png",
+    "CS301/images/week05_example_failover_01.png",
+    "CS301/images/week05_example_01.png",
+    "CS301/images/week05_session_storage_01.png",
+    "CS301/images/week05_example_web_system.png",
+    "CS301/images/week05_virutal_ips_03.png",
+    "CS301/images/week05_virtual_ips_02.png",
+    "CS301/images/week05_virtual_ip_01.png",
+    "CS301/images/week05_dns_failover_02.png",
+    "CS301/images/week05_dns_failover.png",
+    "CS301/images/week05_load_balancer.png",
+    "CS301/Architectural Thinking 2.md",
+    "CS301/Availability Design.md",
     "CS302/Microservices & Docker.md",
+    "CS302/Continuous Integration.md",
     "CS302/DevOps Roadmap.md",
     "CS302/DevOps Culture.md",
     "CS301/Integration Patterns.md",
     "CS301/Security Design.md",
-    "CS301/Architectural Thinking 2.md",
     "CS301/Cloud Computing.md",
     "CS302/images",
     "CS203/Persistence.md",
@@ -197,7 +198,6 @@
     "CS103/Vector.md",
     "CS103/Matrix.md",
     "CS103/Linear Algebra.md",
-    "CS103/Huffman Code.md",
     "Fixed Partitioning ",
     "CS205/Untitled.canvas"
   ]
