@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS302/Continuous Deployment & Delivery.md",
+                "file": "CS301/Performance Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS302/Continuous Deployment & Delivery.md",
+                "file": "CS301/Performance Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS302/Continuous Deployment & Delivery.md",
+                "file": "CS301/Performance Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS302/Continuous Deployment & Delivery.md"
+                "file": "CS301/Performance Design.md"
               }
             }
           },
@@ -166,18 +166,19 @@
   },
   "active": "9952bb4aed1b15fc",
   "lastOpenFiles": [
-    "CS302/images/week05_cd_12.png",
-    "CS302/images/week05_cd_11.png",
-    "CS302/images/week05_cd_10.png",
-    "CS302/images/week05_cd_08.png",
-    "CS302/images/week05_cd_07.png",
-    "CS302/images/week05_cd_05.png",
-    "CS302/images/week05_cd_06.png",
+    "week06_scaling_steps_08.png",
+    "week06_scaling_steps_07.png",
+    "CS301/Performance Design.md",
+    "week06_scaling_steps_06.png",
+    "CS301/images/week06_scaling_steps_05.png",
+    "CS301/images/week06_scaling_steps_04.png",
+    "CS301/images/week06_scaling_steps_03.png",
+    "CS301/images/week06_scaling_steps_02.png",
+    "CS301/images/week06_scaling_steps_01.png",
+    "CS301/images/week06_scaling_maximum.png",
+    "CS301/images/week06_scaling_ha.png",
+    "CS301/images/week06_scaling_minimum.png",
     "CS302/Continuous Deployment & Delivery.md",
-    "CS302/images/week05_cd_04.png",
-    "CS302/images/week05_cd_03.png",
-    "CS302/images/week05_cd_02.png",
-    "CS302/images/week05_cd_01.png",
     "CS301/Availability Design.md",
     "CS301/Security Design.md",
     "CS301/Architectural Thinking 2.md",
@@ -207,7 +208,6 @@
     "CS202/Dynamic Programming.md",
     "CS205/Deadlock and Starvation.md",
     "CS103/Vector.md",
-    "CS103/Matrix.md",
     "Fixed Partitioning ",
     "CS205/Untitled.canvas"
   ]
