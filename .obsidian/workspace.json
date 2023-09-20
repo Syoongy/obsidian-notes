@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d09baa04e71f0908",
+        "id": "8f3f6f17b9bb23b5",
         "type": "tabs",
         "children": [
           {
-            "id": "6570539d856c7624",
+            "id": "680717337c2f8d86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS301/Performance Design.md",
+                "file": "CS302/Microservices Communication.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS301/Performance Design.md",
+                "file": "CS302/Microservices Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS301/Performance Design.md",
+                "file": "CS302/Microservices Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS301/Performance Design.md"
+                "file": "CS302/Microservices Communication.md"
               }
             }
           },
@@ -164,25 +164,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9952bb4aed1b15fc",
+  "active": "680717337c2f8d86",
   "lastOpenFiles": [
-    "week06_scaling_steps_08.png",
-    "week06_scaling_steps_07.png",
+    "CS302/images/week06_saga_02.png",
+    "CS302/images/week06_saga_01.png",
+    "CS302/images/week06_process_choreography_engine_02.png",
+    "CS302/Microservices Communication.md",
+    "CS302/images/week06_process_choreography_engine_01.png",
+    "CS302/images/week06_process_choreography_02.png",
+    "CS302/images/week06_process_choreography_01.png",
+    "CS302/images/week06_process_orchestration_03.png",
+    "CS302/images/week06_process_orchestration_02.png",
+    "CS302/images/week06_process_orchestration.png",
+    "CS302/images/week06_process_notation_explicit.png",
+    "CS302/images/week06_process_notation_implicit.png",
+    "CS302/Microservices & Docker.md",
     "CS301/Performance Design.md",
-    "week06_scaling_steps_06.png",
-    "CS301/images/week06_scaling_steps_05.png",
-    "CS301/images/week06_scaling_steps_04.png",
-    "CS301/images/week06_scaling_steps_03.png",
-    "CS301/images/week06_scaling_steps_02.png",
-    "CS301/images/week06_scaling_steps_01.png",
-    "CS301/images/week06_scaling_maximum.png",
-    "CS301/images/week06_scaling_ha.png",
-    "CS301/images/week06_scaling_minimum.png",
     "CS302/Continuous Deployment & Delivery.md",
     "CS301/Availability Design.md",
     "CS301/Security Design.md",
     "CS301/Architectural Thinking 2.md",
-    "CS302/Microservices & Docker.md",
     "CS302/Continuous Integration.md",
     "CS302/DevOps Roadmap.md",
     "CS302/DevOps Culture.md",
@@ -207,7 +208,6 @@
     "CS202/Greedy Algorithm.md",
     "CS202/Dynamic Programming.md",
     "CS205/Deadlock and Starvation.md",
-    "CS103/Vector.md",
     "Fixed Partitioning ",
     "CS205/Untitled.canvas"
   ]
