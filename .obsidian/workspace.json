@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS302/Microservices Communication.md",
+                "file": "CS302/API Gateways.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS302/Microservices Communication.md",
+                "file": "CS302/API Gateways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS302/Microservices Communication.md",
+                "file": "CS302/API Gateways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS302/Microservices Communication.md"
+                "file": "CS302/API Gateways.md"
               }
             }
           },
@@ -164,20 +164,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "680717337c2f8d86",
+  "active": "9952bb4aed1b15fc",
   "lastOpenFiles": [
-    "CS302/images/week06_saga_02.png",
-    "CS302/images/week06_saga_01.png",
-    "CS302/images/week06_process_choreography_engine_02.png",
+    "CS302/images/week07_graphql.png",
+    "CS302/images/weeko7_kong.png",
+    "CS302/images/week07_aws_api_gateway.png",
+    "CS302/images/week07_bff_pattern_02.png",
+    "CS302/images/week07_bff_pattern_01.png",
+    "CS302/images/week07_api_gateway_pros_cons.png",
+    "CS302/API Gateways.md",
+    "CS302/images/week07_strangler_api_gateway.png",
+    "CS302/images/week07_edge_caching_01.png",
+    "CS302/images/week07_edge_logging.png",
+    "CS302/images/week07_edge_auth_01.png",
+    "CS302/images/week07_api_gateway_protocol_translation.png",
     "CS302/Microservices Communication.md",
-    "CS302/images/week06_process_choreography_engine_01.png",
-    "CS302/images/week06_process_choreography_02.png",
-    "CS302/images/week06_process_choreography_01.png",
-    "CS302/images/week06_process_orchestration_03.png",
-    "CS302/images/week06_process_orchestration_02.png",
-    "CS302/images/week06_process_orchestration.png",
-    "CS302/images/week06_process_notation_explicit.png",
-    "CS302/images/week06_process_notation_implicit.png",
     "CS302/Microservices & Docker.md",
     "CS301/Performance Design.md",
     "CS302/Continuous Deployment & Delivery.md",
@@ -207,7 +208,6 @@
     "CS202/Heuristics.md",
     "CS202/Greedy Algorithm.md",
     "CS202/Dynamic Programming.md",
-    "CS205/Deadlock and Starvation.md",
     "Fixed Partitioning ",
     "CS205/Untitled.canvas"
   ]
