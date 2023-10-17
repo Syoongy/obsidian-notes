@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8f3f6f17b9bb23b5",
+        "id": "313554905161bfac",
         "type": "tabs",
         "children": [
           {
-            "id": "680717337c2f8d86",
+            "id": "d4132d474ba03a73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS302/API Gateways.md",
+                "file": "CS301/Maintainability Design 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS302/API Gateways.md",
+                "file": "CS301/Maintainability Design 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS302/API Gateways.md",
+                "file": "CS301/Maintainability Design 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS302/API Gateways.md"
+                "file": "CS301/Maintainability Design 2.md"
               }
             }
           },
@@ -164,8 +164,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9952bb4aed1b15fc",
+  "active": "d4132d474ba03a73",
   "lastOpenFiles": [
+    "CS301/Performance Design.md",
+    "CS301/Maintainability Design 2.md",
+    "Ethics/Corporate Social Responsibility.md",
+    "Ethics/Ethics and the Environment.md",
+    "Ethics/Ethics of Care.md",
+    "Ethics/Workplace Ethics.md",
+    "Ethics/Robert Nozick, The Entitlement Theory.md",
     "CS302/images/week07_graphql.png",
     "CS302/images/weeko7_kong.png",
     "CS302/images/week07_aws_api_gateway.png",
@@ -177,10 +184,8 @@
     "CS302/images/week07_edge_caching_01.png",
     "CS302/images/week07_edge_logging.png",
     "CS302/images/week07_edge_auth_01.png",
-    "CS302/images/week07_api_gateway_protocol_translation.png",
     "CS302/Microservices Communication.md",
     "CS302/Microservices & Docker.md",
-    "CS301/Performance Design.md",
     "CS302/Continuous Deployment & Delivery.md",
     "CS301/Availability Design.md",
     "CS301/Security Design.md",
@@ -203,11 +208,6 @@
     "CS461",
     "CS203/Component Based Development.md",
     "CS202/Reducibility.md",
-    "CS202/Graph Algorithms.md",
-    "CS202/NP Completeness.md",
-    "CS202/Heuristics.md",
-    "CS202/Greedy Algorithm.md",
-    "CS202/Dynamic Programming.md",
     "Fixed Partitioning ",
     "CS205/Untitled.canvas"
   ]

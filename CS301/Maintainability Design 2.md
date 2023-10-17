@@ -1,0 +1,32 @@
+# What is Maintainability?
+- Modularity
+	- Change to a component has minimal impact to others
+- Reusability
+	- Can be used in more than one system
+- Analysability
+	- Assess the impact on a product or system of an intended change
+- Modifiability
+	- Modified without introducing defects or degrading existing product quality
+- Testability
+	- Determine whether those criteria been met
+## Considerations
+- Software Coding
+	- Coding Guidelines
+- Software Design and Development
+	- Object-oriented Design
+	- Design Principles and Patterns
+	- Development Strategy
+- Solution Architecture
+	- Integration patterns
+	- Architecture Styles
+# S.O.L.I.D Design Principles
+- Single Responsibility
+	- A class should have one, and only one, reason to change
+- Open Closed 
+	- You should be able to extend a class's behaviour, without modifying it
+- Liskov Substitution
+	- Derived classes must be substitutable for their base classes
+- Interface Segregation
+	- Make fine-grained interfaces that are client specific
+- Dependency Inversion
+	- Depend on abstractions and not on concrete implementations
