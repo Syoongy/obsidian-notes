@@ -56,7 +56,7 @@ Configure the API gateway to  route each method-resource pair to a backend servi
 #### Kong
 An open-source package that is installed and managed by yourself (Docker).
 This includes built-in support for many key edge functions
-![[weeko7_kong.png]]
+![[week07_kong.png]]
 #### Self-Developed
 - This is a feasible option
 - Key _design problems_ to solve:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS301/Maintainability Design 2.md",
+                "file": "CS302/Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS301/Maintainability Design 2.md",
+                "file": "CS302/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS301/Maintainability Design 2.md",
+                "file": "CS302/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS301/Maintainability Design 2.md"
+                "file": "CS302/Kubernetes.md"
               }
             }
           },
@@ -166,19 +166,21 @@
   },
   "active": "9952bb4aed1b15fc",
   "lastOpenFiles": [
-    "CS301/images/week10_facatory_03.png",
-    "CS301/images/week10_factory_02 1.png",
-    "CS301/images/week10_factory_02.png",
-    "CS301/images/week10_factory_01.png",
-    "CS301/images/week10_builder_03.png",
-    "CS301/images/week10_builder_02.png",
-    "CS301/images/week10_builder_01.png",
-    "CS301/images/week10_singleton_04.png",
-    "CS301/images/week10_singleton_03.png",
-    "CS301/images/week10_singleton_02.png",
-    "CS301/images/week10_singleton_01.png",
-    "CS301/Performance Design.md",
+    "CS302/images/week10_k8_14.png",
+    "CS302/images/week10_k8_13.png",
+    "CS302/images/week10_k8_12.png",
+    "CS302/images/week10_k8_11.png",
+    "CS302/images/week10_k8_10.png",
+    "CS302/images/week10_k8_09.png",
+    "CS302/Microservices & Docker.md",
+    "CS302/Kubernetes.md",
+    "CS302/images/week10_k8_08.png",
+    "CS302/images/week10_k8_07.png",
+    "CS302/images/week10_k8_06.png",
+    "CS302/images/week10_k8_05.png",
+    "CS302/images/week10_k8_04.png",
     "CS301/Maintainability Design 2.md",
+    "CS301/Performance Design.md",
     "Ethics/Corporate Social Responsibility.md",
     "Ethics/Ethics and the Environment.md",
     "Ethics/Ethics of Care.md",
@@ -186,7 +188,6 @@
     "Ethics/Robert Nozick, The Entitlement Theory.md",
     "CS302/API Gateways.md",
     "CS302/Microservices Communication.md",
-    "CS302/Microservices & Docker.md",
     "CS302/Continuous Deployment & Delivery.md",
     "CS301/Availability Design.md",
     "CS301/Security Design.md",
@@ -207,7 +208,6 @@
     "CS301",
     "CS461/images",
     "CS461",
-    "CS203/Component Based Development.md",
     "Fixed Partitioning ",
     "CS205/Untitled.canvas"
   ]
