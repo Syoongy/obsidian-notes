@@ -81,3 +81,62 @@ To implement a factory,
 3) Create an interface of the creator(factory) class
 4) Create a concrete class implementing the creator interface
 ![[week10_facatory_03.png]]
+### Adapter
+You need to integrate an external code base to your existing code base. The interfaces however, are not compatible and you cannot change the external codes. This will get extremely messy if we used only conditionals.
+#### Intent
+- Convert the interface of a class into another interface clients expect
+- Adapter lets classes work together that couldn't otherwise due to incompatible interfaces.
+![[wk11_adapter_01.png]]
+#### Example Claims System
+Using the same example,
+![[wk11_adapter_02.png]]
+To implement an adapter,
+1) Create an interface of the adapter
+2) Create concrete(adapter) class implementing the adapter interface
+3) Let the adapter compose the adaptee
+4) Implement the logic to adapt the adaptee
+![[wk11_adapter_03.png]]
+![[wk11_adapter_04.png]]
+### Facade
+You must make your objects work with external objects (e.g. third party code). We would need to encapsulate some objects from external, keep track of dependencies, execute methods in the correct order, etc. Thus, the business logic of our classes would become tightly coupled to the implementation details of 3rd party classes, making it hard to comprehend and maintain.
+#### Intent
+Provide a unified interface to a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use
+![[wk11_facade_01.png]]
+#### Example Claims System
+![[wk11_facade_02.png]]
+To implement a facade,
+1) Create an interface and methods for the set of services behind the facade
+2) Create concrete (service) class implementing the service interface
+3) Create concrete (facade) class to hide these services
+4) Implement the logic for client to call through the facade
+![[wk11_facade_03.png]]
+![[wk11_facade_04.png]]
+### Observer
+You have a popular class whose state is wanted by many other classes. Those classes can keep checking the popular class but it would be inefficient
+#### Intent
+Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically
+![[wk11_observer_01.png]]
+#### Example Claims System
+![[wk11_observer_02.png]]
+To implement an observer,
+1) Create an interface of the subject with methods to register, notify and unregister
+2) Create concrete (subject) class implementing the subject interface
+3) Create interface with methods for the observer
+4) Update concrete (observer) to implement the interface
+5) Register observers to the subject
+
+![[wk11_observer_03.png]]
+![[wk11_observer_04.png]]
+### Chain of Responsibility
+You are tasked to perform a series of checks sequentially before returning the result. These checks depend on the input value and can vary (optional checks). Writing these checks in a conditional manner creates messy and unmaintainable code.
+#### Intent
+Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. Chain the receiving objects and pass the request along the chain until an object handles it
+![[wk11_cor_01.png]]
+#### Example Claims System
+![[wk11_cor_02.png]]
+To implement a chain of responsibility,
+1) Create an interface of the handler
+2) Create concrete (approver) class implementing the handler interface
+3) Chain up the handlers (approvers)
+![[wk11_cor_03.png]]
+![[wk11_cor_04.png]]

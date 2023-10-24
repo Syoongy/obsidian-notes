@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "313554905161bfac",
+        "id": "3c476451c618a0a1",
         "type": "tabs",
         "children": [
           {
-            "id": "d4132d474ba03a73",
+            "id": "f16d8db47c856c37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS302/Kubernetes.md",
+                "file": "CS301/Maintainability Design 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS302/Kubernetes.md",
+                "file": "CS301/Maintainability Design 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS302/Kubernetes.md",
+                "file": "CS301/Maintainability Design 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS302/Kubernetes.md"
+                "file": "CS301/Maintainability Design 2.md"
               }
             }
           },
@@ -166,20 +166,21 @@
   },
   "active": "9952bb4aed1b15fc",
   "lastOpenFiles": [
-    "CS302/images/week10_k8_14.png",
-    "CS302/images/week10_k8_13.png",
-    "CS302/images/week10_k8_12.png",
-    "CS302/images/week10_k8_11.png",
-    "CS302/images/week10_k8_10.png",
-    "CS302/images/week10_k8_09.png",
-    "CS302/Microservices & Docker.md",
-    "CS302/Kubernetes.md",
-    "CS302/images/week10_k8_08.png",
-    "CS302/images/week10_k8_07.png",
-    "CS302/images/week10_k8_06.png",
-    "CS302/images/week10_k8_05.png",
-    "CS302/images/week10_k8_04.png",
+    "CS301/images/wk11_cor_03.png",
+    "CS301/images/wk11_cor_04.png",
+    "CS301/images/wk11_cor_02.png",
+    "CS301/images/wk11_cor_01.png",
+    "CS301/images/wk11_observer_04.png",
+    "CS301/images/wk11_observer_03.png",
+    "CS301/images/wk11_observer_02.png",
+    "CS301/images/wk11_observer_01.png",
+    "CS301/Untitled.md",
     "CS301/Maintainability Design 2.md",
+    "CS301/images/wk11_facade_04.png",
+    "CS301/images/wk11_facade_03.png",
+    "CS301/images/wk11_facade_02.png",
+    "CS302/Kubernetes.md",
+    "CS302/Microservices & Docker.md",
     "CS301/Performance Design.md",
     "Ethics/Corporate Social Responsibility.md",
     "Ethics/Ethics and the Environment.md",
@@ -204,7 +205,6 @@
     "CS301/Architectural Thinking 1.md",
     "CS302",
     "CS301/images",
-    "CS461/Introduction to Android Programming.md",
     "CS301",
     "CS461/images",
     "CS461",
