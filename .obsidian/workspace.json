@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS301/Maintainability Design 2.md",
+                "file": "CS302/Monitoring.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS301/Maintainability Design 2.md",
+                "file": "CS302/Monitoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS301/Maintainability Design 2.md",
+                "file": "CS302/Monitoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS301/Maintainability Design 2.md"
+                "file": "CS302/Monitoring.md"
               }
             }
           },
@@ -166,19 +166,20 @@
   },
   "active": "9952bb4aed1b15fc",
   "lastOpenFiles": [
-    "CS301/images/wk11_cor_03.png",
-    "CS301/images/wk11_cor_04.png",
-    "CS301/images/wk11_cor_02.png",
-    "CS301/images/wk11_cor_01.png",
-    "CS301/images/wk11_observer_04.png",
-    "CS301/images/wk11_observer_03.png",
-    "CS301/images/wk11_observer_02.png",
-    "CS301/images/wk11_observer_01.png",
-    "CS301/Untitled.md",
+    "CS302/images/wk11_prometheus_03.png",
+    "CS302/images/wk11_prometheus_02.png",
+    "CS302/images/wk11_prometheus_01.png",
+    "CS302/images/wk11_netflix_01.png",
+    "CS302/images/wk11_telemetry_data_01.png",
+    "CS302/images/wk11_feedback_01.png",
+    "CS302/images/wk11_logging_01.png",
+    "CS302/images/wk11_silos_01.png",
+    "CS302/images/wk11_telemetry_01.png",
+    "CS302/images/wk11_monitoring_01.png",
     "CS301/Maintainability Design 2.md",
-    "CS301/images/wk11_facade_04.png",
-    "CS301/images/wk11_facade_03.png",
-    "CS301/images/wk11_facade_02.png",
+    "CS302/Monitoring.md",
+    "CS301/images/wk11_cor_03.png",
+    "CS301/Untitled.md",
     "CS302/Kubernetes.md",
     "CS302/Microservices & Docker.md",
     "CS301/Performance Design.md",
@@ -202,7 +203,6 @@
     "CS203/Persistence.md",
     "CS203/SCRUM.md",
     "CS203/AGILE Processes.md",
-    "CS301/Architectural Thinking 1.md",
     "CS302",
     "CS301/images",
     "CS301",
