@@ -15,7 +15,6 @@ Some organisations hire DevOps evangelists to implement process/cultural improve
 
 ![[week02_cultural_movement.png]]
 Although DevOps roles are often characterised in terms of tool, DevOps is a cultural movement
-
 ### Site Reliability Engineering
 Originated from google with a goal of creating scalable and highly reliable software systems through applying aspects of SE to infrastructure/ops problems.
 This however should be considered as a specific implementation ("how") of DevOps ("what").

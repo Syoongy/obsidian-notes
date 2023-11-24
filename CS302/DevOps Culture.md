@@ -14,7 +14,7 @@ The main idea of this method is to break software development into linear, seque
 - The main focus is to eliminate waste during the project process
 - This resulted in Kanban to visualise work in progress
 
-Through Agile and Lean, we managed to shift away from the linearity of waterfall. However, teams still worked in their own silos. This results in a blame ame culture where different teams meet only their own KPIs.
+Through Agile and Lean, we managed to shift away from the linearity of waterfall. However, teams still worked in their own silos. This results in a blame culture where different teams meet only their own KPIs.
 
 # Deployment Hell
 A typical scenario would have a large complex organisation, coupled monoliths, scarce integration testing and many approval processes

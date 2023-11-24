@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS302/Infrastructure as Code.md",
+                "file": "CS302/Continuous Deployment & Delivery.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS302/Infrastructure as Code.md",
+                "file": "CS302/Continuous Deployment & Delivery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS302/Infrastructure as Code.md",
+                "file": "CS302/Continuous Deployment & Delivery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS302/Infrastructure as Code.md"
+                "file": "CS302/Continuous Deployment & Delivery.md"
               }
             }
           },
@@ -164,25 +164,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9952bb4aed1b15fc",
+  "active": "f16d8db47c856c37",
   "lastOpenFiles": [
+    "CS302/Continuous Integration.md",
+    "CS302/Microservices Communication.md",
+    "CS302/Microservices & Docker.md",
+    "CS302/DevOps Roadmap.md",
+    "CS302/DevOps Culture.md",
+    "CS302/Infrastructure as Code.md",
     "CS302/images/wk12_terraform_import_01 1.png",
     "CS302/images/wk12_terraform_import_01.png",
     "CS302/images/wk12_terraform_workflow_01.png",
     "CS302/images/week12_hcl_01.png",
     "CS302/Monitoring.md",
-    "CS302/Infrastructure as Code.md",
     "CS302/images/wk11_prometheus_03.png",
     "CS302/images/wk11_prometheus_02.png",
     "CS302/images/wk11_prometheus_01.png",
     "CS302/images/wk11_netflix_01.png",
     "CS302/images/wk11_telemetry_data_01.png",
     "CS302/images/wk11_feedback_01.png",
-    "CS302/images/wk11_logging_01.png",
     "CS301/Maintainability Design 2.md",
     "CS301/Untitled.md",
     "CS302/Kubernetes.md",
-    "CS302/Microservices & Docker.md",
     "CS301/Performance Design.md",
     "Ethics/Corporate Social Responsibility.md",
     "Ethics/Ethics and the Environment.md",
@@ -190,14 +193,10 @@
     "Ethics/Workplace Ethics.md",
     "Ethics/Robert Nozick, The Entitlement Theory.md",
     "CS302/API Gateways.md",
-    "CS302/Microservices Communication.md",
     "CS302/Continuous Deployment & Delivery.md",
     "CS301/Availability Design.md",
     "CS301/Security Design.md",
     "CS301/Architectural Thinking 2.md",
-    "CS302/Continuous Integration.md",
-    "CS302/DevOps Roadmap.md",
-    "CS302/DevOps Culture.md",
     "CS301/Integration Patterns.md",
     "CS301/Cloud Computing.md",
     "CS302/images",
