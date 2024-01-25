@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b10c59e7b2f3fcc5",
+        "id": "62cf532086bf2bba",
         "type": "tabs",
         "children": [
           {
-            "id": "66a7c2b017685a10",
+            "id": "7e177e01ab0a186b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COR2223/Week 01.md",
+                "file": "COR2223/Week 03.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COR2223/Week 01.md",
+                "file": "COR2223/Week 03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COR2223/Week 01.md",
+                "file": "COR2223/Week 03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COR2223/Week 01.md"
+                "file": "COR2223/Week 03.md"
               }
             }
           },
@@ -166,53 +166,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9952bb4aed1b15fc",
+  "active": "7e177e01ab0a186b",
   "lastOpenFiles": [
+    "CS202/Reducibility.md",
+    "CS202/Heuristics.md",
+    "CS202/Dynamic Programming.md",
+    "CS202/Divide And Conquer.md",
+    "CS202/Approximation Algorithms.md",
+    "COR2223/Week 03.md",
+    "COR2223/images/Pasted image 20240125132843.png",
+    "COR2223/Week 02.md",
+    "COR2223/Week 01.md",
+    "COR2221/Week 01.md",
+    "COR2221/Week 02.md",
+    "CS202/Greedy Algorithm.md",
+    "CS201/Doubly Linked List.md",
+    "CS201/Constant Function.md",
+    "CS201/Circular Linked List.md",
+    "CS201/Big Omega Notation.md",
+    "CS201/Big O Notation.md",
+    "CS201/Unsorted Maps.md",
+    "CS202/Weighted Graphs.md",
+    "CS202/Vertex-Cover Problem.md",
+    "CS202/NP Completeness.md",
+    "CS202/Graph Algorithms.md",
+    "CS201/Polynomial Function.md",
+    "CS201/Logarithm Function.md",
+    "CS201/Recursion.md",
+    "CS201/Singly Linked List.md",
+    "CS462/images/Pasted image 20240117163234.png",
+    "CS462/images/Pasted image 20240117163212.png",
+    "CS462/images/Pasted image 20240117163054.png",
+    "CS462/images",
+    "CS462/images/Pasted image 20240117160430.png",
+    "COR2221",
     "COR2223/images",
     "COR2223/images/wk1_ai_01.png",
-    "CS301/Architectural Thinking 1.md",
-    "COR2223/Week 01.md",
     "COR2223",
-    "CS461/Introduction to Android Programming.md",
     "CS462",
-    "CS302/Continuous Deployment & Delivery.md",
-    "CS302/Continuous Integration.md",
-    "CS302/Microservices Communication.md",
-    "CS302/Microservices & Docker.md",
-    "CS302/DevOps Roadmap.md",
-    "CS302/DevOps Culture.md",
-    "CS302/Infrastructure as Code.md",
     "CS302/images/wk12_terraform_import_01 1.png",
     "CS302/images/wk12_terraform_import_01.png",
     "CS302/images/wk12_terraform_workflow_01.png",
     "CS302/images/week12_hcl_01.png",
-    "CS302/Monitoring.md",
-    "CS302/images/wk11_prometheus_03.png",
-    "CS302/images/wk11_prometheus_02.png",
-    "CS302/images/wk11_prometheus_01.png",
-    "CS302/images/wk11_netflix_01.png",
-    "CS302/images/wk11_telemetry_data_01.png",
-    "CS301/Maintainability Design 2.md",
-    "CS301/Untitled.md",
-    "CS302/Kubernetes.md",
-    "CS301/Performance Design.md",
-    "Ethics/Corporate Social Responsibility.md",
-    "Ethics/Ethics and the Environment.md",
-    "Ethics/Ethics of Care.md",
-    "Ethics/Workplace Ethics.md",
-    "Ethics/Robert Nozick, The Entitlement Theory.md",
-    "CS302/API Gateways.md",
-    "CS301/Availability Design.md",
-    "CS301/Security Design.md",
-    "CS301/Architectural Thinking 2.md",
-    "CS301/Integration Patterns.md",
     "CS302/images",
     "CS302",
     "CS301/images",
     "CS301",
     "CS461/images",
-    "CS461",
-    "Fixed Partitioning ",
     "CS205/Untitled.canvas"
   ]
 }
